@@ -1,0 +1,23 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding: 20px 0;
+}
+
+.male-text {
+    color: blue;
+}
+
+.female-text {
+    color: red;
+}
