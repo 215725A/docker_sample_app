@@ -20,5 +20,4 @@ __以下は実装予定__
 1. `git clone git@github.com:215725A/docker_sample_app.git` or  
    `git clone https://github.com/215725A/docker_sample_app.git`
 2. `cd docker_sample_app`
-3. `docker compose up --build -d` or
-   `docker compose up -d`
+3. `docker compose up --build -d`
